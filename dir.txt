@@ -1,0 +1,25 @@
+documents_convert/
+    convert_txt_to_csv.py
+    convert_csv_to_json.py
+    convert_xml_to_json.py
+
+images_convert/
+    convert_png_to_jpg.py
+    convert_jpg_to_png.py
+    convert_gif_to_jpg.py
+    convert_jpg_to_gif.py
+
+videos_convert/
+    convert_mov_to_mp4.py
+    convert_mp4_to_gif.py
+    convert_avi_to_mp4.py
+    convert_mp4_to_wav.py
+    convert_wav_to_mp4.py
+
+samples_convert/
+    convert_mp3_to_wav.py
+    convert_wav_to_mp3.py
+    convert_flac_to_wav.py
+    convert_wav_to_flac.py
+    convert_wav_to_mp3.py
+    convert_mp3_to_flac.py
