@@ -65,12 +65,7 @@ Este repositório contém uma coleção de scripts em Python para converter dife
     python convert_wav_to_flac.py --input /caminho/do/seu/arquivo.wav --output /caminho/do/seu/output.flac
     ```
 
-12. **`convert_wav_to_mp3.py`:** Converte um arquivo WAV para MP3.
-    ```bash
-    python convert_wav_to_mp3.py --input /caminho/do/seu/arquivo.wav --output /caminho/do/seu/output.mp3 --bitrate 192k
-    ```
-
-13. **`convert_mp3_to_flac.py`:** Converte um arquivo MP3 para FLAC.
+12. **`convert_mp3_to_flac.py`:** Converte um arquivo MP3 para FLAC.
     ```bash
     python convert_mp3_to_flac.py --input /caminho/do/seu/arquivo.mp3 --output /caminho/do/seu/output.flac
     ```
